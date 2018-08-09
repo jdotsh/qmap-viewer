@@ -1,0 +1,53 @@
+{
+    "FeatureCollection": [
+        {
+            "Feature": {
+                "geometry": {
+                    "Point": null
+                },
+                "properties": {
+                    "description": "Photo",
+                    "name": "Photo",
+                    "url": "2018-06-06_16-28-19.jpg",
+                    "urlname": "2018-06-06_16-28-19.jpg"
+                }
+            }
+        },
+        {
+            "Feature": {
+                "geometry": {
+                    "Point": null
+                },
+                "properties": {
+                    "description": "Photo",
+                    "name": "Photo",
+                    "url": "2018-06-06_16-28-46.jpg",
+                    "urlname": "2018-06-06_16-28-46.jpg"
+                }
+            }
+        },
+        {
+            "Feature": {
+                "geometry": {
+                    "Point": null
+                },
+                "properties": {
+                    "description": "Photo",
+                    "name": "Photo",
+                    "url": "2018-06-06_16-29-28.jpg",
+                    "urlname": "2018-06-06_16-29-28.jpg"
+                }
+            }
+        },
+        {
+            "Feature": {
+                "geometry": {
+                    "LineString": null
+                },
+                "properties": {
+                    "name": "Tracked with OSMTracker for Android™"
+                }
+            }
+        }
+    ]
+}
